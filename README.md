@@ -8,7 +8,7 @@ This theme does not use a fixed font other than in tabs and tags and will work w
 
 Screenshot:
 
-![[images/cocoa-screenshot]]
+![](images/cocoa-screenshot.jpg)
 
 
 
